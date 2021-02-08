@@ -1,6 +1,6 @@
 ### Hey there! I am Ila :)
 
-* 23 years old
+* 23 years old, born in Milan
 * Studying Data Engineering and Analytics at Technical University of Munich
 * Passionate about databases, Mathematics, healthcare and Open Source
 * Conference organizer and volunteer (PGConfEU, PGDay, KDE Akademy, Linux Day Milan)
